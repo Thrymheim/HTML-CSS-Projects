@@ -1,0 +1,298 @@
+@font-face {
+    font-family: "Shabnam";
+    src: 
+    url("fonts/Shabnam-FD.woff2") format("woff2");
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-size: 14px;
+}
+
+body{
+    background-color: #FAFAFA;
+    font-family: "Shabnam";
+}
+
+.container{
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 56px;
+}
+
+.section-head{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 20px;
+}
+
+.right{
+    display: flex;
+    gap: 10px;
+    display: inline-flexbox;
+}
+
+.icon{
+    margin-top: 1.1px;
+}
+
+.text{
+    margin-left: 0;
+}
+
+.left{
+    color: #2196F3;
+    margin-right: 970px;
+}
+
+.row{
+    display: flex;
+    gap: 27px;;
+
+}
+
+.box1{
+    background-color: white;
+    box-shadow: 4px 3px  #F5F5F5;
+    height: 370px;
+    width: 300px;
+}
+
+.pic1{
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.discription1{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #616161;
+    margin-bottom: 37px;
+}
+.discount1{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.box-discount1{
+    background-color: #E0F7FA;
+    border-radius: 4px;
+    color: #1E88E5;
+    padding: 2px;
+}
+
+.del1{
+    text-decoration: line-through;
+    color: #9E9E9E;
+}
+
+.bottom1{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.gray{
+    color: #757575;
+}
+
+.icon1{
+    display: flex;
+    margin-right: 125px;
+    gap: 3px;
+    margin-bottom: 8px;
+
+}
+
+.thetext1{
+    margin-top: 4px;
+}
+
+.box2{
+    background-color: white;
+    box-shadow: 4px 3px  #F5F5F5;
+    height: 370px;
+    width: 300px;
+}
+.pic2{
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.discription2{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #616161;
+    margin-bottom: 37px;
+}
+.discount2{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.box-discount2{
+    background-color: #E0F7FA;
+    border-radius: 4px;
+    color: #1E88E5;
+    padding: 2px;
+}
+
+.del2{
+    text-decoration: line-through;
+    color: #9E9E9E;
+}
+
+.bottom2{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.icon2{
+    display: flex;
+    margin-right: 125px;
+    gap: 3px;
+    margin-bottom: 8px;
+
+}
+
+.thetext2{
+    margin-top: 4px;
+}
+
+.box3{
+    background-color: white;
+    box-shadow: 4px 3px  #F5F5F5;
+    height: 370px;
+    width: 300px;
+}
+.pic3{
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.discription3{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #616161;
+    margin-bottom: 20px;
+}
+.discount3{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.box-discount3{
+    background-color: #E0F7FA;
+    border-radius: 4px;
+    color: #1E88E5;
+    padding: 2px;
+}
+
+.del3{
+    text-decoration: line-through;
+    color: #9E9E9E;
+}
+
+.bottom3{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.icon3{
+    display: flex;
+    margin-right: 125px;
+    gap: 3px;
+    margin-bottom: 8px;
+
+}
+
+.thetext3{
+    margin-top: 4px;
+}
+
+.box4{
+    background-color: white;
+    box-shadow: 4px 3px  #F5F5F5;
+    height: 370px;
+    width: 300px;
+}
+ 
+.pic4{
+    display: flex;
+    margin-left: 100px;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.discription4{
+
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #616161;
+    margin-bottom: 20px;
+}
+.discount4{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.box-discount4{
+    background-color: #E0F7FA;
+    border-radius: 4px;
+    color: #1E88E5;
+    padding: 2px;
+}
+
+.del4{
+    text-decoration: line-through;
+    color: #9E9E9E;
+}
+
+.bottom4{
+    display: flex;
+    gap: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+.icon4{
+    display: flex;
+    margin-right: 125px;
+    gap: 3px;
+    margin-bottom: 8px;
+
+}
+
+.thetext4{
+    margin-top: 4px;
+}
